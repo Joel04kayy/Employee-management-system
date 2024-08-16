@@ -8,5 +8,3 @@ Menu-Driven Interface: The program provides a command-line menu interface that a
 Functionality: The project implements separate functions for each menu option. The tasks include adding new employees, printing employee data, searching based on employee ID or full name, counting the number of employees, sorting the list, and removing one or all employees from the list.
 
 Technical Requirements: The project emphasizes creating individual function files, a main testing file, and a makefile for compiling the program. It also has a specific folder structure for organizing the source, header, and executable files.
-
-
